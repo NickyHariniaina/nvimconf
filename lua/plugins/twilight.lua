@@ -4,7 +4,7 @@ return {
     dimming = {
       color = {
         "Normal",
-        "#000000",
+        "#021024",
       },
     },
   },

@@ -1,8 +1,7 @@
 local opt = vim.opt
 
-opt.guicursor = "n-v-c-sm:block,i-ci-ve:block,r-cr-o:block"
+opt.guicursor = "n-c-sm:block,i-ci-ve:ver50,v-r-cr-o:hor100"
 opt.scrolloff = 10 -- number of lines to keep above/below cursor
-opt.mouse = "" -- disable mouse support
 opt.relativenumber = true -- show relative line numbers
 opt.number = true -- shows absolute line number on cursor line (when relative number is on)
 opt.undofile = true -- Enable undo for a file even if it was closed
